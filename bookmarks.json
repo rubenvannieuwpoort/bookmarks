@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Inigo Quilez",
+        "url": "https://iquilezles.org",
+        "active": true
+    },
+    {
+        "name": "null program",
+        "url": "https://nullprogram.com/",
+        "active": true
+    },
+    {
+        "name": "Eli Bendersky's site",
+        "url": "https://eli.thegreenplace.net/",
+        "active": true
+    }
+]
